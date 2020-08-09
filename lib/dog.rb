@@ -10,6 +10,6 @@ def name
 end
 end
 
-lassie=Dog.new
-lassie.name="Lassie"
-puts lassie.name
+my_dog=Dog.new
+my_dog.name=("Lassie")
+puts my_dog.name
